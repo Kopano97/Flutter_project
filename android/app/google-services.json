@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670906934854",
+    "project_id": "kop-brew-crew",
+    "storage_bucket": "kop-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670906934854:android:1f0bf90ea9dfbdfa16cc47",
+        "android_client_info": {
+          "package_name": "com.example.kopbrewcrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1kfiGcOzydm3TMNV2-1qRk9hMpVgAWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
